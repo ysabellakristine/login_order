@@ -10,3 +10,14 @@ h2 {
         color: rgb(139,0,0);
         }
 p {     color: violet}
+
+.button-link {
+        background-color: #4CAF50;
+        color: #ffffff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .button-link:hover {
+        background-color: #3e8e41;}
