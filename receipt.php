@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Receipt</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Receipt</title>
 </head>
 <body>
     <div class="container">
@@ -36,5 +35,7 @@
         <p>Oops! Something went wrong. Please try again.</p>
         <?php } ?>
     </div>
+    <a href="index.php">Order again?</a>
+    <a href="logout.php">Logout</a>
 </body>
 </html>
